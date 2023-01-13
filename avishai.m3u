@@ -1,0 +1,338 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BeIN AMC HD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/07/bein-cinema-Package-page.png" group-title="beIN Entertainment ",BeIN AMC HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Bejunior HD" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/beJUNIOR.png" group-title="beIN Entertainment ",Bein Bejunior HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fine Living HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="beIN Entertainment ",BeIN Fine Living HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/180.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Food Network HD" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/food-network-logo-2018-1.png" group-title="beIN Entertainment ",BeIN Food Network HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="beIN Entertainment ",BeIN Fox Action Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Crime HD" tvg-logo="https://w7.pngwing.com/pngs/927/907/png-transparent-fox-life-high-definition-television-fox-crime-crime-television-blue-animals.png" group-title="beIN Entertainment ",BeIN Fox Crime HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group-title="beIN Entertainment ",BeIN Fox HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Life HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FOX-LIFE-HD.png" group-title="beIN Entertainment ",BeIN Fox Life HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_MOVIES_Action-2_HD.png" group-title="beIN Entertainment ",BeIN Fox Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN FX" tvg-logo="https://www.nadirsat.com/Packages_files/FX-HD-Black-1.png" group-title="beIN Entertainment ",beIN FX
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 3 Drama HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies 3 Drama HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 4 Family HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies 4 Family HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies Premiere 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies Premiere 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN National Geographic FHD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Nat_geo_hd.png" group-title="beIN Entertainment ",BeIN National Geographic FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN National Geographic Wild FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/UPDATEz-NGW_Full_Logo_20182.png" group-title="beIN Entertainment ",BeIN National Geographic Wild FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN OutDoor HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="beIN Entertainment ",BeIN OutDoor HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Series HD 1" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/4/2017/02/SeriesHD1@2x.png" group-title="beIN Entertainment ",BeIN Series HD 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/201.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Series HD 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Series HD 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Star Movies HD" tvg-logo="https://ewsat.com/img/BEIN_MOVIES_STARS.png" group-title="beIN Entertainment ",BeIN Star Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Star World HD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/StarWorldHD.png" group-title="beIN Entertainment ",BeIN Star World HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Travel HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/0003_TCI_colour-Blue_UK2016.png" group-title="beIN Entertainment ",BeIN Travel HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN HG HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein-Logo.png" group-title="beIN Entertainment ",beIN HG HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein HG TV" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="beIN Entertainment ",Bein HG TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 2 Action HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies 2 Action HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max 4K" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="MBC",MBC Max 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/277.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Persia 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MBC_Persia_logo.png" group-title="MBC",MBC Persia 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/280.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4k" tvg-logo="http://bbb.lol/uploads/tv_image/mbc-variety-hd.png" group-title="MBC",MBC Variety 4k
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/282.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- LD MOVIES" tvg-logo="https://e7.pngegg.com/pngimages/364/452/png-clipart-film-reel-old-movies-nostalgia.png" group-title="Kurdish",K- LD MOVIES
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/285.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- ZED Plus" tvg-logo="http://1.bp.blogspot.com/-wB5m00Vabwo/XU_p1Kff21I/AAAAAAAAC68/RLpAnhtczKwiWIWkdQpXFZzhaA6w1vdlACK4BGAYYCw/s1600/36966130_643523992668816_6831003260740960256_n.png" group-title="Kurdish",K- ZED Plus
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Zed TV HD" tvg-logo="http://1.bp.blogspot.com/-wB5m00Vabwo/XU_p1Kff21I/AAAAAAAAC68/RLpAnhtczKwiWIWkdQpXFZzhaA6w1vdlACK4BGAYYCw/s1600/36966130_643523992668816_6831003260740960256_n.png" group-title="Kurdish",K- Zed TV HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/298.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="Kurdish",K- NRT Sport
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="See Sport 3" tvg-logo="https://w7.pngwing.com/pngs/528/389/png-transparent-olympic-games-squash-sport-sports-logos-angle-text-monochrome.png" group-title="Kurdish",See Sport 3
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/336.ts
+#EXTINF:-1 tvg-id="" tvg-name="See Sport 2" tvg-logo="https://w7.pngwing.com/pngs/528/389/png-transparent-olympic-games-squash-sport-sports-logos-angle-text-monochrome.png" group-title="Kurdish",See Sport 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duhok Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Duhok_SC_badge.png/200px-Duhok_SC_badge.png" group-title="Kurdish",Duhok Sport
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/351.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Astera Movies HD" tvg-logo="https://i.im.ge/2022/11/09/SMJ0xC.astera.png" group-title="Kurdish",K- Astera Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/368.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- BMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BMC_logo.svg/1200px-BMC_logo.svg.png" group-title="Kurdish",K- BMC
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/375.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Dasinya Sport" tvg-logo="https://i.im.ge/2022/11/10/STyOOx.download.png" group-title="Kurdish",K- Dasinya Sport
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- KRD WWE HD" tvg-logo="https://w7.pngwing.com/pngs/955/542/png-transparent-wwe-network-women-in-wwe-logo-wwe-smackdown-wwe-angle-text-triangle-thumbnail.png" group-title="Kurdish",K- KRD WWE HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- KURD MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/ckb/3/37/Kurdcinema_LOGO.png" group-title="Kurdish",K- KURD MOVIES
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- LD Sport" tvg-logo="https://w7.pngwing.com/pngs/546/1022/png-transparent-running-free-content-runner-text-sport-logo.png" group-title="Kurdish",K- LD Sport
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/402.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Kids HD" tvg-logo="https://www.freepnglogos.com/uploads/kids-png/kids-smiling-png-transparent-kids-smiling-images-4.png" group-title="Kurdish",K- MMN Kids HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/413.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/LMN_logo.png" group-title="Kurdish",K- MMN Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/414.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Radio Farsy HD" tvg-logo="https://w7.pngwing.com/pngs/812/944/png-transparent-radio-mirchi-internet-radio-fm-broadcasting-radio-station-radio-electronics-text-logo.png" group-title="Kurdish",K- MMN Radio Farsy HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/415.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Show HD" tvg-logo="https://w7.pngwing.com/pngs/373/299/png-transparent-south-korea-television-show-variety-show-running-man-running-man-television-text-people-thumbnail.png" group-title="Kurdish",K- MMN Show HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/417.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- MMN Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/K2_sports_logo.png" group-title="Kurdish",K- MMN Sport HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/418.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- NewMax Box Office 1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="Kurdish",K- NewMax Box Office 1HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/421.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Niga Movies HD" tvg-logo="https://i.im.ge/2022/11/09/SQdxly.niga.png" group-title="Kurdish",K- Niga Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/424.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Infinity HD" tvg-logo="https://e7.pngegg.com/pngimages/512/831/png-clipart-infinite-infinitize-k-pop-infinity-symbol-inspirit-infinitize-text-orange.png" group-title="Kurdish",K- Infinity HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Travel HD" tvg-logo="https://w7.pngwing.com/pngs/540/863/png-transparent-flight-airplane-hotel-fuad-turizm-travel-airplane.png" group-title="Kurdish",K- Travel HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/440.ts
+#EXTINF:-1 tvg-id="" tvg-name="K-Aso Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ASO_Logo.svg/1280px-ASO_Logo.svg.png" group-title="Kurdish",K-Aso Sport HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/449.ts
+#EXTINF:-1 tvg-id="" tvg-name="K_Newline Sport" tvg-logo="https://newline-interactive.com/wp-content/uploads/2019/09/CDWTopgolf_newline.png" group-title="Kurdish",K_Newline Sport
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/463.ts
+#EXTINF:-1 tvg-id="" tvg-name="MMN SPORT 4K" tvg-logo="https://w7.pngwing.com/pngs/303/549/png-transparent-sport-logo-football-sports-logos-text-sport-logo.png" group-title="Kurdish",MMN SPORT 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/468.ts
+#EXTINF:-1 tvg-id="" tvg-name="NUBAR SPORT" tvg-logo="https://e7.pngegg.com/pngimages/846/645/png-clipart-sport-management-logo-football-material-sport-happy-birthday-vector-images.png" group-title="Kurdish",NUBAR SPORT
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/471.ts
+#EXTINF:-1 tvg-id="" tvg-name="See Sport 1" tvg-logo="https://w7.pngwing.com/pngs/528/389/png-transparent-olympic-games-squash-sport-sports-logos-angle-text-monochrome.png" group-title="Kurdish",See Sport 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/476.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sima MoviesHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sima-logo-png-transparent.png" group-title="Kurdish",Sima MoviesHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIMA SPORT" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sima-logo-png-transparent.png" group-title="Kurdish",SIMA SPORT
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/480.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zaxo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Zakho_FC_logo.png" group-title="Kurdish",Zaxo Sport
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 1" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Batman-Logo-1939.png" group-title="Kurdish",K- Forever Cartoon 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/814/775/png-clipart-bts-the-most-beautiful-moment-in-life-young-forever-drawing-the-most-beautiful-moment-in-life-part-1-k-pop-bts-cute-child-chibi.png" group-title="Kurdish",K- Forever Cartoon 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 2" tvg-logo="https://w7.pngwing.com/pngs/196/889/png-transparent-monsta-x-shine-forever-the-clan-pt-2-5-the-final-chapter-k-pop-teen-top-jooheon-album-logo-sticker.png" group-title="Kurdish",K- Forever Cartoon 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 2 HD" tvg-logo="https://img.lovepik.com/original_origin_pic/18/05/24/d08d6d381d2b5e6a17bab727c3fffc38.png_wh300.png" group-title="Kurdish",K- Forever Cartoon 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/496.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Cartoon 3 HD" tvg-logo="https://w7.pngwing.com/pngs/404/247/png-transparent-friendship-day-love-best-friends-forever-girlfriend-singer-cartoon-love-child-friendship-thumbnail.png" group-title="Kurdish",K- Forever Cartoon 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/497.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Pink Panther HD" tvg-logo="https://w7.pngwing.com/pngs/492/656/png-transparent-the-pink-panther-comic-book-cartoon-comics-artist-the-pink-panther-comics-mammal-text.png" group-title="Kurdish",K- Forever Pink Panther HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/499.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/754/29/png-transparent-tom-and-jerry-child-cartoon-drawing-metro-goldwyn-mayer-tom-and-jerry.png" group-title="Kurdish",K- Forever Tom & Jerry
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Forever Tom & Jerry HD" tvg-logo="https://www.pngfind.com/pngs/m/92-924027_tom-and-jerry-logo-png-transparent-png.png" group-title="Kurdish",K- Forever Tom & Jerry HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/501.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- Mr. Bean" tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="Kurdish",K- Mr. Bean
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="K- NewMax Box Office HD" tvg-logo="https://e7.pngegg.com/pngimages/1007/813/png-clipart-sky-movies-box-office-sky-sports-boxing-television-streaming-media-boxing-text-sport.png" group-title="Kurdish",K- NewMax Box Office HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/508.ts
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Cinema 1" tvg-logo="https://e7.pngegg.com/pngimages/750/515/png-clipart-cinema-4d-illustration-cinema-4d-3d-computer-graphics-mental-ray-3d-modeling-computer-software-cinema-4d-3d-computer-graphics-logo.png" group-title="Kurdish",K-Forever Cinema 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/511.ts
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Cinema 2" tvg-logo="https://e7.pngegg.com/pngimages/750/515/png-clipart-cinema-4d-illustration-cinema-4d-3d-computer-graphics-mental-ray-3d-modeling-computer-software-cinema-4d-3d-computer-graphics-logo.png" group-title="Kurdish",K-Forever Cinema 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/512.ts
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Cinema 3" tvg-logo="https://e7.pngegg.com/pngimages/750/515/png-clipart-cinema-4d-illustration-cinema-4d-3d-computer-graphics-mental-ray-3d-modeling-computer-software-cinema-4d-3d-computer-graphics-logo.png" group-title="Kurdish",K-Forever Cinema 3
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="K-Forever Pink Panther" tvg-logo="https://toppng.com/uploads/preview/the-pink-panther-image-pink-panther-logo-11562881372k3xill49hk.png" group-title="Kurdish",K-Forever Pink Panther
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baby HD" tvg-logo="https://e7.pngegg.com/pngimages/862/619/png-clipart-bein-sports-bein-channels-network-bein-media-group-pay-television-television-channel-nick-jr-television-blue.png" group-title="Kids",Bein Baby HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Bejunior HD" tvg-logo="https://e7.pngegg.com/pngimages/862/619/png-clipart-bein-sports-bein-channels-network-bein-media-group-pay-television-television-channel-nick-jr-television-blue.png" group-title="Kids",Bein Bejunior HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kid- Nickelodeon HD" tvg-logo="https://w7.pngwing.com/pngs/957/25/png-transparent-nickelodeon-high-definition-television-nick-jr-television-channel-others-television-text-orange.png" group-title="Kids",Kid- Nickelodeon HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kid- Tom and Jerry 1" tvg-logo="https://e7.pngegg.com/pngimages/208/472/png-clipart-tom-and-jerry-tom-and-jerry.png" group-title="Kids",Kid- Tom and Jerry 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kid- Sanafir" tvg-logo="https://www.kindpng.com/picc/m/577-5779539_baby-tv-hd-baby-tv-hd-logo-hd.png" group-title="Kids",Kid- Sanafir
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/569.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Bloomberg" tvg-logo="https://e7.pngegg.com/pngimages/56/101/png-clipart-new-york-city-bloomberg-television-bnn-bloomberg-logo-others-angle-text.png" group-title="OSN",OSN Bloomberg
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="https://media.elcinema.com/tvguide/1257_1.png" group-title="OSN",OSN Comedy
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/221.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Crime Investigation FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="OSN",OSN Crime Investigation FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/222.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="OSN",OSN Discovery FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/223.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery IDX FHD" tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" group-title="OSN",OSN Discovery IDX FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/800px-Discovery_HD.svg.png" group-title="OSN",OSN Discovery SC FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/225.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Channel FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="OSN",OSN Disney Channel FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Junior FHD" tvg-logo="https://e7.pngegg.com/pngimages/598/516/png-clipart-logo-disney-junior-nickelodeon-hd-the-walt-disney-company-television-channel-junior-text-logo.png" group-title="OSN",OSN Disney Junior FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN E! FHD" tvg-logo="https://e1.pngegg.com/pngimages/1000/27/png-clipart-white-and-red-icons-set-1-internet-explorer-red-internet-explorer-logo.png" group-title="OSN",OSN E! FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ginx eSports" tvg-logo="https://delegata.pl/wp-content/uploads/2022/03/Ginx.png" group-title="OSN",OSN Ginx eSports
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/230.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN History 2 FHD" tvg-logo="https://e7.pngegg.com/pngimages/292/527/png-clipart-h2-high-definition-television-history-a-e-networks-creative-business-card-design-television-angle.png" group-title="OSN",OSN History 2 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN History FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel-hd_m.png" group-title="OSN",OSN History FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/232.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Living FHD" tvg-logo="https://www.pngfind.com/pngs/m/437-4378239_martha-stewart-living-omnimedia-logo-black-and-white.png" group-title="OSN",OSN Living FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN MEZZE" tvg-logo="https://w7.pngwing.com/pngs/7/834/png-transparent-osn-hd-logo.png" group-title="OSN",OSN MEZZE
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN movies action FHD" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2022/05/Channel-Logos-2022-Updated_OSN-movies-action.png" group-title="OSN",OSN movies action FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/237.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies hollywood" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2022/05/Channel-Logos-2022-Updated_OSN-Movies-Hollywood.png" group-title="OSN",OSN Movies hollywood
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/238.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Premiere" tvg-logo="https://e7.pngegg.com/pngimages/592/341/png-clipart-osn-movies-television-channel-film-uae-miscellaneous-television.png" group-title="OSN",OSN Movies Premiere
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN MTV Music HD" tvg-logo="https://e7.pngegg.com/pngimages/894/497/png-clipart-osn-mena-netflix-orbit-showtime-entertainment-let-s-go-miscellaneous-text.png" group-title="OSN",OSN MTV Music HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/241.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic FHD" tvg-logo="https://e7.pngegg.com/pngimages/717/33/png-clipart-national-geographic-abu-dhabi-television-channel-nat-geo-wild-national-geographic-logo-television-angle.png" group-title="OSN",OSN National Geographic FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic Wild FHD" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" group-title="OSN",OSN National Geographic Wild FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN News FHD" tvg-logo="https://w7.pngwing.com/pngs/776/349/png-transparent-television-channel-captain-news-tamil-sun-tv-news-miscellaneous-television-trademark.png" group-title="OSN",OSN News FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series prime" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2022/05/Channel-Logos-2022-Updated_Osn-series-prime.png" group-title="OSN",OSN Series prime
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN showcase" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2022/05/Channel-Logos-2022-Updated_OSN-Showcase.png" group-title="OSN",OSN showcase
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies FHD" tvg-logo="https://pngset.com/images/star-movies-logo-osn-star-movies-hd-symbol-trademark-text-number-transparent-png-2894153.png" group-title="OSN",OSN Star Movies FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World FHD" tvg-logo="https://media.elcinema.com/tvguide/1329_1.png" group-title="OSN",OSN Star World FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="https://e7.pngegg.com/pngimages/1020/841/png-clipart-tlc-life-entertainment-television-show-others-miscellaneous-television.png" group-title="OSN",OSN TLC
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN VH+1" tvg-logo="https://e7.pngegg.com/pngimages/887/646/png-clipart-vh1-logo-tv-mtv-classic-television-viacom-media-networks-greek-dance-purple-television.png" group-title="OSN",OSN VH+1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Woman" tvg-logo="https://w7.pngwing.com/pngs/7/834/png-transparent-osn-hd-logo.png" group-title="OSN",OSN Woman
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Per- Iran TV Israel Live" tvg-logo="https://w7.pngwing.com/pngs/598/960/png-transparent-islamic-republic-of-iran-broadcasting-television-channel-irib-tamasha-irib-tv3-tv-shows-miscellaneous-television-logo.png" group-title="Persian",Per- Iran TV Israel Live
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/622.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports",AD Sport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2 HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/11/AbuDhabi-Sport-2.png" group-title="Sports",AD Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Documentary FHD" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="Sports",AR: Al Jazeera Documentary FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/844.ts
+#EXTINF:-1 tvg-id="" tvg-name="BH- Bahrain Sports 1 HD" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_1.png" group-title="Sports",BH- Bahrain Sports 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="BH- Bahrain Sports 2 HD" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_2.png" group-title="Sports",BH- Bahrain Sports 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP- WWE HD" tvg-logo="https://w7.pngwing.com/pngs/955/542/png-transparent-wwe-network-women-in-wwe-logo-wwe-smackdown-wwe-angle-text-triangle-thumbnail.png" group-title="Sports",SP- WWE HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/847.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- Abu Dhabi Sports  2 HD" tvg-logo="http://sd.heytv.org/wp-content/uploads/2019/03/abu-dhabi-sports-2.png" group-title="Sports",SPORT- Abu Dhabi Sports  2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/848.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- Abu Dhabi Sports 1 HD" tvg-logo="http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.png" group-title="Sports",SPORT- Abu Dhabi Sports 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/849.ts#EXTINF:-1 tvg-id="" tvg-name="SPORT- Dubai Sport 1 HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png" group-title="Sports",SPORT- Dubai Sport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/854.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- Dubai Sport 2 HD" tvg-logo="https://korafoot.com/wp-content/uploads/2021/11/dubai-sport-2.png" group-title="Sports",SPORT- Dubai Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/855.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- Dubai Sport 3 HD" tvg-logo="https://korafoot.com/wp-content/uploads/2021/11/dubai-sport-3.png" group-title="Sports",SPORT- Dubai Sport 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/856.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- Jordan Sport TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/JordanSport-1.png" group-title="Sports",SPORT- Jordan Sport TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- KSA Sport 1 HD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/fullhd_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Sports",SPORT- KSA Sport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/858.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- KSA Sport 2 HD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/fullhd_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Sports",SPORT- KSA Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/859.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- Libya Sport TV" tvg-logo="https://cdn03.paltoday.ps/ar/thumb/1100x700/uploads/images/2021/01/fUYVe.png" group-title="Sports",SPORT- Libya Sport TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/862.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- On Sport 2" tvg-logo="https://e7.pngegg.com/pngimages/404/167/png-clipart-logo-sport-brand-font-design-text-sport.png" group-title="Sports",SPORT- On Sport 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- ON Sport HD" tvg-logo="https://w7.pngwing.com/pngs/303/549/png-transparent-sport-logo-football-sports-logos-text-sport-logo.png" group-title="Sports",SPORT- ON Sport HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/864.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT- WWE Raw HD" tvg-logo="https://w7.pngwing.com/pngs/947/877/png-transparent-wwe-championship-world-heavyweight-championship-wwe-universal-championship-wwe-raw-women-s-championship-championship-belt-wwe.png" group-title="Sports",SPORT- WWE Raw HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/865.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport: ATG" tvg-logo="https://atgsportsmm.com/wp-content/uploads/2022/01/logo.png" group-title="Sports",Sport: ATG
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport: Sharjah Sport HD" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="Sports",Sport: Sharjah Sport HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/867.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport:ALL Sports" tvg-logo="https://vtlogo.com/wp-content/uploads/2021/01/all-sport-vector-logo.png" group-title="Sports",Sport:ALL Sports
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/868.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC1 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/871.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC3 FHD" tvg-logo="https://koooralive.onl/wp-content/uploads/2022/08/ssc3.png" group-title="Sports",SSC3 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/872.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC5 FHD" tvg-logo="https://vtlogo.com/wp-content/uploads/2021/01/all-sport-vector-logo.png" group-title="Sports",SSC5 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/874.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT 1 HD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/07/starz-play-vector-logo.png" group-title="StarzzPlay",STARZPLAY SPORT 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/764.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT 2 HD" tvg-logo="https://www.pngfind.com/pngs/m/479-4795523_billing-by-the-billions-starz-play-arabia-logo.png" group-title="StarzzPlay",STARZPLAY SPORT 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/765.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT ASIA 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/385/129/png-clipart-abu-dhabi-sports-television-channel-abu-dhabi-tv-others-miscellaneous-television.png" group-title="StarzzPlay",AD SPORT ASIA 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/766.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT ASIA 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/232/588/png-clipart-abu-dhabi-tv-television-channel-abu-dhabi-media-tv-channel-purple-television.png" group-title="StarzzPlay",AD SPORT ASIA 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/767.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 1  4K" tvg-logo="https://e7.pngegg.com/pngimages/79/918/png-clipart-abu-dhabi-sports-council-product-design-brand-logo-font-abu-dhabi-flag-text-logo.png" group-title="StarzzPlay",AD SPORT PREMUIM 1  4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/768.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 2 4K" tvg-logo="https://e7.pngegg.com/pngimages/756/693/png-clipart-abu-dhabi-tv-television-channel-abu-dhabi-media-others-miscellaneous-purple.png" group-title="StarzzPlay",AD SPORT PREMUIM 2 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/769.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORTS" tvg-logo="https://www.libyana.ly//Att_Files/Service/StarzPlay%20sport%20icon.png" group-title="StarzzPlay",STARZPLAY SPORTS
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/770.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY CricLife 2 FHD" tvg-logo="https://www.pngkey.com/png/detail/335-3358803_starz-play-starz.png" group-title="StarzzPlay",STARZPLAY CricLife 2 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/771.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY YAS SPORT FHD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/07/starz-play-vector-logo.png" group-title="StarzzPlay",STARZPLAY YAS SPORT FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/772.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY GOLF TV FHD" tvg-logo="https://www.cableman.ru/sites/default/files/golftv_logo.png" group-title="StarzzPlay",STARZPLAY GOLF TV FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/773.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY CRICLIFE 1 FHD" tvg-logo="https://www.nicepng.com/png/detail/335-3358795_starzplay-cricket-wireless-logo-png.png" group-title="StarzzPlay",STARZPLAY CRICLIFE 1 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/774.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY PREMIER SPORT FHD" tvg-logo="https://www.nicepng.com/png/detail/536-5369382_code-rlwc5-to-get-a-month-of-premier.png" group-title="StarzzPlay",STARZPLAY PREMIER SPORT FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/775.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPORT 2 YILLDIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1200px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Turkish",TRT SPORT 2 YILLDIZ
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr- Bein Sport 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="Turkish",Tr- Bein Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/701.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- beIN Sports 1 HD" tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="Turkish",TR- beIN Sports 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/702.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- beIN Sports 4 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="Turkish",TR- beIN Sports 4 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/705.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- beIN Sports Max 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="Turkish",TR- beIN Sports Max 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/707.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- EuroSport 1 HD" tvg-logo="https://w1.pngwing.com/pngs/203/103/png-transparent-background-hd-eurosport-1-logo-eurosport-hd-television-dazn-streaming-media-text.png" group-title="Turkish",TR- EuroSport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/733.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- EuroSport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Turkish",TR- EuroSport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/734.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Turkish",TR: S Sport 2 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/760.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports News 4K" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="beIN Sports",BeIN Sports News 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1125.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 Premium 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="beIN Sports",BeIN SPORTS 1 Premium 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 Premium  4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN Sports",BeIN SPORTS 2 Premium  4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 Premium  4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="beIN Sports",BeIN SPORTS 3 Premium  4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 4K" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="beIN Sports",BeIN SPORTS 1 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 4K" tvg-logo="https://media.info/i/lf/300/1491352241/6594.png" group-title="beIN Sports",BeIN SPORTS 2 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BeIN SPORTS 4 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 5 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports",BeIN SPORTS 5 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 6 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN Sports",BeIN SPORTS 6 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 7 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sports",BeIN SPORTS 7 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 EN 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN Sports",BeIN SPORTS 2 EN 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1137.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 EN 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="beIN Sports",BeIN SPORTS 3 EN 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1138.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png" group-title="beIN Sports",beIN Sport EXTRA 1 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1142.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-2-1165.png" group-title="beIN Sports",beIN Sport EXTRA 2 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1143.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN Max",beIN SPORTS MAX 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="beIN Max",beIN SPORTS MAX 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="beIN Max",beIN SPORTS MAX 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN Max",beIN SPORTS MAX 4 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="beIN Max",beIN SPORTS MAX 5 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="beIN Max",beIN SPORTS MAX 6 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
